@@ -1,0 +1,9 @@
+--Python
+- Pandas
+- NumPy
+- Scikit-learn
+- TF-IDF Vectorizer
+- Logistic Regression
+- Pickle
+- Streamlit
+- Jupyter Notebook
